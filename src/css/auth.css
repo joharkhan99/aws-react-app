@@ -1,0 +1,36 @@
+.signup input, .signup select {
+  background-color: #F2F7FA;
+  border-color: transparent;
+  font-size: 14px;
+}
+
+.text-size-14 {
+  font-size: 14px;
+}
+
+.signup input:focus, .signup input:focus {
+  background-color: #F2F7FA;
+  border: 1px solid #b2e0fb;
+}
+
+.signup label {
+  color: #aeaec0;
+  font-size: 14px;
+}
+
+.req-icon {
+  font-size: 13px;
+  vertical-align: top;
+  color: #71acce;
+}
+
+.signp-bg {
+  background: url(../assets/signup.PNG);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-color: #F2F7FA;
+}
+
+.signup-form h3 {
+  font-size: 22px;
+}
